@@ -16,10 +16,6 @@ In addition, variable names, I'm learning how important it is to logically name 
 in the code. 
 
 
-We have an awful lot of computers here, and it gets pretty confusing with slightly different things running on 
-all of them. How could containers help us improve this situation? Docker can run their own environments they are 
-separate from the operating system.
-
 # Response for #7 / Part 2 
 
 * Docker is becoming an industry standard for the current state of the web / integrated multi-screen experiences, 
