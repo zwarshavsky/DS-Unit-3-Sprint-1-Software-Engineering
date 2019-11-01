@@ -4,7 +4,7 @@ class Speaker:
     inventory_count = 0 
 
 
-    def __init__(self,lower_range,upper_range,power,cost):
+    def __init__(self,lower_range=100,upper_range=20000,power=200,cost=500):
         self.lower_range = lower_range
         self.upper_range = upper_range
         self.power = power
@@ -52,7 +52,7 @@ top = Speaker (125,20000,1000,500)
 # sub.discount_amount = .5
 
 #testing class method for over-riding discount amount
-Speaker.set_discount_amount(.9)
+# Speaker.set_discount_amount(.9)
 
 import datetime
 
