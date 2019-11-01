@@ -15,10 +15,10 @@ class AcmeProductTests(unittest.TestCase):
         """Test default product weight being 20."""
         prod = Product('Test Product')
         self.assertEqual(prod.weight, 20)
-    def test_product_methods(self):
-        """Testing methods stealability and explode"""
-        prod = Product('Test Product',price=20,weight=10,flammability=1)
-        self.assertEqual(prod.stealability(), 10)
+    # def test_product_methods(self):
+    #     """Testing methods stealability and explode"""
+    #     prod = Product('Test Product',price=20,weight=10,flammability=1)
+    #     self.assertEqual(prod.stealability(), 10)
 
 # class AcmeReportTests(unittest.TestCase):
 #         """Making sure Acme products are the tops!"""
