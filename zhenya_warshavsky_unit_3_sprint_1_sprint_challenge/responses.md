@@ -8,9 +8,6 @@ Software Engineering - the Acme Way
 * Ran auto pep8 on all my files. Didn't change very much style-wise!
 
 Part 7 - Questions (and your Answers)
-Acme Corporation isn't just a few .py files. If you want to grow in your career here, you'll have to answer the following:
-
-What, in your opinion, is an important part of code reviews? That is, what is something you pay attention to when you review code, and that you appreciate when others do the same for your code?
 
 # Response for #7 / Part 1 
 
